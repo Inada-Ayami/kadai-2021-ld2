@@ -14,7 +14,7 @@ for (let n = 2; n <= 10000; n = n + 1) {
     if (isPrime){
         if(n % 3 === 1){
             count_3n1 = count_3n1 + 1
-        } else if(n%3===2){
+        } else if(n % 3 === 2){
             count_3n2 = count_3n2 + 1
                 }
       
