@@ -2,6 +2,30 @@
     <head>
         <meta charset="utf-8">
     </head>
+    <style>
+        button{
+            font-size: 32px;
+            font-weight: bold;
+            margin: 20px;
+            padding: 10px 50px 8px;
+            font-family: serif;
+
+            color: white;
+            background-color:darkred;
+            border-color: gold;
+            border-width: 5px;
+            border-radius: 50px;
+        }
+        button:active{
+            -webkit-transform: translateY(4px);
+            transform: translateY(4px);
+            border-bottom: none;
+        }
+        button:hover{
+            color: white;
+            background-color: brown;
+        }
+    </style>
     <body>
         <h1>おみくじプログラム</h1>
         <button id="omikuji">おみくじを引く</button>
