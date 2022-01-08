@@ -1,0 +1,19 @@
+{
+  "name": "kadai-2021-ld2",
+  "version": "1.0.0",
+  "description": "課題９のデモ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inada-Ayami/kadai-2021-ld2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inada-Ayami/kadai-2021-ld2/issues"
+  },
+  "homepage": "https://github.com/Inada-Ayami/kadai-2021-ld2#readme"
+}
